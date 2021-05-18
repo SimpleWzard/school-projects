@@ -1,0 +1,9 @@
+Nombre: jaime
+Apellido: hernandez
+Curso y numero: 1a 20
+Materia: lenguaje
+Calificaciones:
+|1|2|1|100|100|
+|100|0|
+ Nota Final: 74.1 pts
+

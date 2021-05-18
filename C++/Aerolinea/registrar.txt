@@ -1,0 +1,42 @@
+		. - . - . - . - . - . - . - . - . - . - . - . - . - . - . - . - . - . -
+		:A nombre de: Jaime Hernandez
+		:Telefono: 12312
+		. - . - . - . - . - . - . - . - . - . - . - . - . - . - . - . - . - . -
+			 ___________                                                             ____________
+			|  _________|                                                           |__________  |
+			| |                                                                                | |
+			|_|   ________                                                                     |_|
+			     |  oooo  |   BOLETO: 1.                                                  
+			     | oooooo |   Edad: ADULTO.                                                       
+			     | oooooo |   Precio: 1000$.                                        
+			     |  oooo  |   Vuelo: 1.                                                 
+			     |__/  \__|   Desde: Liberia, Costa Rica(LIR)   hacia San Jose, Costa Rica(SJO) .                          
+			                  Asiento: 1                                            
+			                  Nombre:jaime                                        
+			                  Fecha: 10/1/2019-1/1/2019                    
+			 _                                                                                  _ 
+			| |                                                                                | |
+			| |_________                                                             __________| |
+			|___________|                                                           |____________|
+
+			 ___________                                                             ____________
+			|  _________|                                                           |__________  |
+			| |                                                                                | |
+			|_|   ________                                                                     |_|
+			     |  oooo  |   BOLETO: 2.                                                  
+			     | oooooo |   Edad: ADULTO.                                                       
+			     | oooooo |   Precio: 1000$.                                        
+			     |  oooo  |   Vuelo: 1.                                                 
+			     |__/  \__|   Desde: Liberia, Costa Rica(LIR)   hacia San Jose, Costa Rica(SJO) .                          
+			                  Asiento: 2                                            
+			                  Nombre:jaime                                        
+			                  Fecha: 10/1/2019-1/1/2019                    
+			 _                                                                                  _ 
+			| |                                                                                | |
+			| |_________                                                             __________| |
+			|___________|                                                           |____________|
+
+
+Va a pagar: 2maletas.
+
+Su precio total a pagar es de: 2000.00 $
