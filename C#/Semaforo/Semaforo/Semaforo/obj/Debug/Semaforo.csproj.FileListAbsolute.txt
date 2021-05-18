@@ -1,0 +1,28 @@
+C:\Users\blacktip\AppData\Local\Temporary Projects\Semaforo\bin\Debug\Semaforo.exe.config
+C:\Users\blacktip\AppData\Local\Temporary Projects\Semaforo\bin\Debug\Semaforo.exe
+C:\Users\blacktip\AppData\Local\Temporary Projects\Semaforo\bin\Debug\Semaforo.pdb
+C:\Users\blacktip\AppData\Local\Temporary Projects\Semaforo\obj\Debug\Semaforo.csprojResolveAssemblyReference.cache
+C:\Users\blacktip\AppData\Local\Temporary Projects\Semaforo\obj\Debug\Semaforo.Form1.resources
+C:\Users\blacktip\AppData\Local\Temporary Projects\Semaforo\obj\Debug\Semaforo.Properties.Resources.resources
+C:\Users\blacktip\AppData\Local\Temporary Projects\Semaforo\obj\Debug\Semaforo.csproj.GenerateResource.Cache
+C:\Users\blacktip\AppData\Local\Temporary Projects\Semaforo\obj\Debug\Semaforo.exe
+C:\Users\blacktip\AppData\Local\Temporary Projects\Semaforo\obj\Debug\Semaforo.pdb
+C:\Users\jaime\Desktop\Semaforo\Semaforo\bin\Debug\Semaforo.exe.config
+C:\Users\jaime\Desktop\Semaforo\Semaforo\obj\Debug\Semaforo.exe
+C:\Users\jaime\Desktop\Semaforo\Semaforo\obj\Debug\Semaforo.pdb
+C:\Users\jaime\Desktop\Semaforo\Semaforo\obj\Debug\Semaforo.csprojResolveAssemblyReference.cache
+C:\Users\jaime\Desktop\Semaforo\Semaforo\obj\Debug\Semaforo.Form1.resources
+C:\Users\jaime\Desktop\Semaforo\Semaforo\obj\Debug\Semaforo.Properties.Resources.resources
+C:\Users\jaime\Desktop\Semaforo\Semaforo\obj\Debug\Semaforo.csproj.GenerateResource.Cache
+C:\Users\jaime\Desktop\Semaforo\Semaforo\bin\Debug\Semaforo.exe
+C:\Users\jaime\Desktop\Semaforo\Semaforo\bin\Debug\Semaforo.pdb
+C:\Users\blacktip\Desktop\Semaforo\Semaforo\bin\Debug\Semaforo.exe.config
+C:\Users\blacktip\Desktop\Semaforo\Semaforo\obj\Debug\Semaforo.exe
+C:\Users\blacktip\Desktop\Semaforo\Semaforo\obj\Debug\Semaforo.pdb
+C:\Users\blacktip\Desktop\Semaforo\Semaforo\bin\Debug\Semaforo.exe
+C:\Users\blacktip\Desktop\Semaforo\Semaforo\bin\Debug\Semaforo.pdb
+C:\Users\blacktip\Desktop\Semaforo\Semaforo\obj\Debug\Semaforo.csprojResolveAssemblyReference.cache
+C:\Users\blacktip\Desktop\Semaforo\Semaforo\obj\Debug\Semaforo.Form1.resources
+C:\Users\blacktip\Desktop\Semaforo\Semaforo\obj\Debug\Semaforo.Properties.Resources.resources
+C:\Users\blacktip\Desktop\Semaforo\Semaforo\obj\Debug\Semaforo.csproj.GenerateResource.Cache
+C:\Users\jaime\Desktop\Semaforo\Semaforo\obj\Debug\Semaforo.Form2.resources
