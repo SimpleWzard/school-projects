@@ -1,0 +1,39 @@
+C:\Users\jaime\AppData\Local\Temporary Projects\Semaforo+login\bin\Debug\Semaforo+login.exe.config
+C:\Users\jaime\AppData\Local\Temporary Projects\Semaforo+login\bin\Debug\Semaforo+login.exe
+C:\Users\jaime\AppData\Local\Temporary Projects\Semaforo+login\bin\Debug\Semaforo+login.pdb
+C:\Users\jaime\AppData\Local\Temporary Projects\Semaforo+login\obj\Debug\Semaforo_login.Form1.resources
+C:\Users\jaime\AppData\Local\Temporary Projects\Semaforo+login\obj\Debug\Semaforo_login.Properties.Resources.resources
+C:\Users\jaime\AppData\Local\Temporary Projects\Semaforo+login\obj\Debug\Semaforo+login.csproj.GenerateResource.Cache
+C:\Users\jaime\AppData\Local\Temporary Projects\Semaforo+login\obj\Debug\Semaforo+login.exe
+C:\Users\jaime\AppData\Local\Temporary Projects\Semaforo+login\obj\Debug\Semaforo+login.pdb
+C:\Users\jaime\AppData\Local\Temporary Projects\Semaforo+login\obj\Debug\Semaforo_login.Form2.resources
+C:\Users\jaime\Documents\Visual Studio 2012\Projects\Semaforo+login\Semaforo+login\bin\Debug\Semaforo+login.exe.config
+C:\Users\jaime\Documents\Visual Studio 2012\Projects\Semaforo+login\Semaforo+login\obj\Debug\Semaforo+login.exe
+C:\Users\jaime\Documents\Visual Studio 2012\Projects\Semaforo+login\Semaforo+login\obj\Debug\Semaforo+login.pdb
+C:\Users\jaime\Documents\Visual Studio 2012\Projects\Semaforo+login\Semaforo+login\bin\Debug\Semaforo+login.exe
+C:\Users\jaime\Documents\Visual Studio 2012\Projects\Semaforo+login\Semaforo+login\bin\Debug\Semaforo+login.pdb
+C:\Users\jaime\Documents\Visual Studio 2012\Projects\Semaforo+login\Semaforo+login\obj\Debug\Semaforo+login.csprojResolveAssemblyReference.cache
+C:\Users\jaime\Documents\Visual Studio 2012\Projects\Semaforo+login\Semaforo+login\obj\Debug\Semaforo_login.Form1.resources
+C:\Users\jaime\Documents\Visual Studio 2012\Projects\Semaforo+login\Semaforo+login\obj\Debug\Semaforo_login.Form2.resources
+C:\Users\jaime\Documents\Visual Studio 2012\Projects\Semaforo+login\Semaforo+login\obj\Debug\Semaforo_login.Properties.Resources.resources
+C:\Users\jaime\Documents\Visual Studio 2012\Projects\Semaforo+login\Semaforo+login\obj\Debug\Semaforo+login.csproj.GenerateResource.Cache
+C:\Users\jaime\Desktop\TODOS LOS PROGRAMAS\C#\Login+Semaforo\Semaforo+login\Semaforo+login\bin\Debug\Semaforo+login.exe.config
+C:\Users\jaime\Desktop\TODOS LOS PROGRAMAS\C#\Login+Semaforo\Semaforo+login\Semaforo+login\obj\Debug\Semaforo+login.exe
+C:\Users\jaime\Desktop\TODOS LOS PROGRAMAS\C#\Login+Semaforo\Semaforo+login\Semaforo+login\obj\Debug\Semaforo+login.pdb
+C:\Users\jaime\Desktop\TODOS LOS PROGRAMAS\C#\Login+Semaforo\Semaforo+login\Semaforo+login\bin\Debug\Semaforo+login.exe
+C:\Users\jaime\Desktop\TODOS LOS PROGRAMAS\C#\Login+Semaforo\Semaforo+login\Semaforo+login\bin\Debug\Semaforo+login.pdb
+C:\Users\jaime\Desktop\TODOS LOS PROGRAMAS\C#\Login+Semaforo\Semaforo+login\Semaforo+login\obj\Debug\Semaforo+login.csprojResolveAssemblyReference.cache
+C:\Users\jaime\Desktop\TODOS LOS PROGRAMAS\C#\Login+Semaforo\Semaforo+login\Semaforo+login\obj\Debug\Semaforo_login.Form1.resources
+C:\Users\jaime\Desktop\TODOS LOS PROGRAMAS\C#\Login+Semaforo\Semaforo+login\Semaforo+login\obj\Debug\Semaforo_login.Form2.resources
+C:\Users\jaime\Desktop\TODOS LOS PROGRAMAS\C#\Login+Semaforo\Semaforo+login\Semaforo+login\obj\Debug\Semaforo_login.Properties.Resources.resources
+C:\Users\jaime\Desktop\TODOS LOS PROGRAMAS\C#\Login+Semaforo\Semaforo+login\Semaforo+login\obj\Debug\Semaforo+login.csproj.GenerateResource.Cache
+C:\Users\jaime\Desktop\Pruebas y programs\TODO\TODOS LOS PROGRAMAS  v2\C#\Login+Semaforo\Semaforo+login\Semaforo+login\bin\Debug\Semaforo+login.exe.config
+C:\Users\jaime\Desktop\Pruebas y programs\TODO\TODOS LOS PROGRAMAS  v2\C#\Login+Semaforo\Semaforo+login\Semaforo+login\bin\Debug\Semaforo+login.exe
+C:\Users\jaime\Desktop\Pruebas y programs\TODO\TODOS LOS PROGRAMAS  v2\C#\Login+Semaforo\Semaforo+login\Semaforo+login\bin\Debug\Semaforo+login.pdb
+C:\Users\jaime\Desktop\Pruebas y programs\TODO\TODOS LOS PROGRAMAS  v2\C#\Login+Semaforo\Semaforo+login\Semaforo+login\obj\Debug\Semaforo+login.csprojAssemblyReference.cache
+C:\Users\jaime\Desktop\Pruebas y programs\TODO\TODOS LOS PROGRAMAS  v2\C#\Login+Semaforo\Semaforo+login\Semaforo+login\obj\Debug\Semaforo_login.Form1.resources
+C:\Users\jaime\Desktop\Pruebas y programs\TODO\TODOS LOS PROGRAMAS  v2\C#\Login+Semaforo\Semaforo+login\Semaforo+login\obj\Debug\Semaforo_login.Form2.resources
+C:\Users\jaime\Desktop\Pruebas y programs\TODO\TODOS LOS PROGRAMAS  v2\C#\Login+Semaforo\Semaforo+login\Semaforo+login\obj\Debug\Semaforo_login.Properties.Resources.resources
+C:\Users\jaime\Desktop\Pruebas y programs\TODO\TODOS LOS PROGRAMAS  v2\C#\Login+Semaforo\Semaforo+login\Semaforo+login\obj\Debug\Semaforo+login.csproj.GenerateResource.cache
+C:\Users\jaime\Desktop\Pruebas y programs\TODO\TODOS LOS PROGRAMAS  v2\C#\Login+Semaforo\Semaforo+login\Semaforo+login\obj\Debug\Semaforo+login.exe
+C:\Users\jaime\Desktop\Pruebas y programs\TODO\TODOS LOS PROGRAMAS  v2\C#\Login+Semaforo\Semaforo+login\Semaforo+login\obj\Debug\Semaforo+login.pdb
